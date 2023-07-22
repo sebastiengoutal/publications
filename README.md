@@ -18,5 +18,5 @@ The abstract is the following:
 
 <em>Text data augmentation, i.e., the creation of new textual data from an existing text, is challenging. Indeed, augmentation transformations should take into account language complexity while being relevant to the target Natural Language Processing (NLP) task (e.g., Machine Translation, Text Classification). Initially motivated by an application of Business Email Compromise (BEC) detection, we propose a corpus and task agnostic augmentation framework used as a service to augment English texts within our company. Our proposal combines different methods, utilizing BERT language model, multi-step back-translation and heuristics. We show that our augmentation framework improves performances on several text classification tasks using publicly available models and corpora as well as on a BEC detection task. We also provide a comprehensive argumentation about the limitations of our augmentation framework.</em>
 
-Please refer to <https://arxiv.org/abs/2007.02033>
+Please refer to <https://arxiv.org/abs/2007.02033>.
 
